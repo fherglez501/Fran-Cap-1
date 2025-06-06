@@ -1,0 +1,19 @@
+1.- Porque no hubo ocurrencia de bd
+2.- Que puede explicar las cargas
+
+DATOS: Separar por año y mes
+---------------------------------------------
+
+CONTEOS: 
+edad + 
+año (no paplica) + 
+estacion (no_aplica) --> época_reproductiva + 
+latitud + 
+altitud + 
+var_climaticas
+
+CEROS:  
+año + 
+prevalencia + 
+latitud + 
+altitud  

@@ -1,0 +1,8 @@
+﻿ # data.table::fwrite(datos, file = "Bd_tesis_FC.txt", sep = "\t", quote = FALSE, na = "", bom = TRUE)
+ 
+ # cat(readLines("Bd_tesis_FC.txt", n = 5), sep = "\n")
+ # df1 <- read.table("Bd_tesis_FC.txt", sep = "\t", header = FALSE, fill = TRUE, quote = "", comment.char = "")
+ # str(df1)
+ 
+ # df2 <- data.table::fread("Bd_tesis_FC.txt", sep = "\t", header = TRUE)
+ # str(df2)
