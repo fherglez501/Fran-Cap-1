@@ -100,10 +100,3 @@ testZeroInflation(res)
 # Modelo Poisson inflado en ceros (ZIP)
 # Modelo binomial negativo (NB)
 # Modelo binomial negativo inflado en ceros (ZINB) si también hay sobre-dispersión.
-
-
-# Modelos 
-library(pscl)
-library(MASS)
-library(lmtest)
-library(countreg)
